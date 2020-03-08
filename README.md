@@ -18,5 +18,3 @@ execution of code
 for compiling  face_recognition.py file first of all you need to import
 face_recognition python library
 numpy
-
-
